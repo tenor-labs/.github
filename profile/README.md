@@ -1,4 +1,4 @@
-![](https://github.com/user-attachments/assets/4af98516-2c58-4b26-9add-543cdd441ed6)
+![](https://raw.githubusercontent.com/Shippooor-Labs/media-kit/dc7805341819611ca083056dfeeb97c5cede1421/Tenor-Banner.svg?token=AJWCJTZPM4EWMKXXEPETHXTHZOTDY)
 
 ---
 ### Tenor GitHub
