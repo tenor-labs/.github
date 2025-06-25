@@ -9,7 +9,7 @@ Here lies all of the public repositories of the Tenor Smart Contracts.
 
 ### Getting Started
 
-- [tenor-contracts](https://github.com/Shippooor-Labs/tenor-contracts): Tenor, Ethereum's fixed rate order book
+- [tenor-contracts](https://github.com/Shippooor-Labs/tenor-contracts)
 
 ---
 
