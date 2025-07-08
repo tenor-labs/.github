@@ -3,7 +3,7 @@
 ---
 ### Tenor GitHub
 
-Here lies all of the public repositories of the Tenor Smart Contracts.
+Here lies all of the public repositories of the Tenor Platform.
 
 ---
 
