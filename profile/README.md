@@ -1,5 +1,3 @@
-![Twitter-Cover-03](https://github.com/user-attachments/assets/08fdd8d4-104c-4a3e-b393-b1e818a4e75a)
-
 ---
 ### Tenor GitHub
 
