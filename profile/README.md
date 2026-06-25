@@ -1,13 +1,12 @@
+<p align="center">
+  <img src="./github-header.png" alt="Tenor" />
+</p>
+
 ---
-### Tenor GitHub
 
-Here lies all of the public repositories of the Tenor Platform.
+### Smart Contracts
 
----
-
-### Getting Started
-
-- [tenor-contracts](https://github.com/Shippooor-Labs/tenor-contracts)
+- [tenor-contracts](https://github.com/tenor-labs/tenor-contracts)
 
 ---
 
